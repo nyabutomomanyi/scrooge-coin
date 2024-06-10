@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T12:49:04.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="YSIh_xioMsy4RxpgmB7t" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T12:52:41.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="CLPSMZ5s4H0BlOE2rGMe" version="24.5.2" type="github">
   <diagram name="Page-1" id="iZcKI4B3J8yrRd7xRlpH">
     <mxGraphModel dx="1034" dy="2147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="n6cRhEiikm48OAnWci3R-12" value="scanout table combined" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="-322" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n6cRhEiikm48OAnWci3R-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n6cRhEiikm48OAnWci3R-13" edge="1">
+        <mxCell id="n6cRhEiikm48OAnWci3R-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="n6cRhEiikm48OAnWci3R-13" edge="1" target="jsC2yVKV6_jI0NT67JG1-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="-350" as="targetPoint" />
           </mxGeometry>
@@ -106,7 +106,15 @@
           <mxGeometry x="600" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XFNl7B4toXM3GKOzUbXC-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="980" y="-316" width="60" height="63" as="geometry" />
+          <mxGeometry x="950" y="-450" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="XFNl7B4toXM3GKOzUbXC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jsC2yVKV6_jI0NT67JG1-1" target="XFNl7B4toXM3GKOzUbXC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFNl7B4toXM3GKOzUbXC-3" value="Merge all the 3 tables" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XFNl7B4toXM3GKOzUbXC-2">
+          <mxGeometry x="-0.2142" y="1" relative="1" as="geometry">
+            <mxPoint y="-16" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
