@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T13:27:08.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="j9ene4r06MeLWz2louDP" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T13:29:00.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="BCB77ay6VoY87mW7KqaG" version="24.5.2" type="github">
   <diagram name="Page-1" id="iZcKI4B3J8yrRd7xRlpH">
     <mxGraphModel dx="2004" dy="2792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -123,8 +123,14 @@
             <mxPoint x="8" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Gs2iLJmTBSKQsVDlnOt5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFNl7B4toXM3GKOzUbXC-4" target="Gs2iLJmTBSKQsVDlnOt5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XFNl7B4toXM3GKOzUbXC-4" value="Assignments Table" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1557" y="-738" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gs2iLJmTBSKQsVDlnOt5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFNl7B4toXM3GKOzUbXC-5" target="Gs2iLJmTBSKQsVDlnOt5-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XFNl7B4toXM3GKOzUbXC-5" value="Quarantine Table" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1557" y="-584" width="120" height="60" as="geometry" />
@@ -142,7 +148,7 @@
           <mxGeometry x="1200" y="-669" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iLJmTBSKQsVDlnOt5-14" value="Metabse models&lt;br&gt;each investor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="-867" width="120" height="60" as="geometry" />
+          <mxGeometry x="1800" y="-867" width="120" height="367" as="geometry" />
         </mxCell>
         <mxCell id="Gs2iLJmTBSKQsVDlnOt5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gs2iLJmTBSKQsVDlnOt5-21" target="XFNl7B4toXM3GKOzUbXC-4">
           <mxGeometry relative="1" as="geometry" />
